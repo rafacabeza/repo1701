@@ -6,5 +6,5 @@
 - bla, bla, .....
 
 ## Observaciones
-1 Parece facil
-2 Espero que vaya bien
+1. Parece facil
+2. Espero que vaya bien
