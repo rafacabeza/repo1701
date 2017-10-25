@@ -11,13 +11,17 @@
 
 ## Este es lo primero que añado en local
 - Vamos a ver los siguiente:
-	- git status
-	- git add 
-	- git commit 
-	- git push
+	- git status //¿como está el repo?
+	- git add //prepara ficheros
+	- git commit //tomma instantanea
+	- git push //sube código a origin (remoto)
+	
+	- gin init //crea repositorio, directorio ".git"
 	
 ## Repasando ideas:
 - Un fichero puede estar
 	- comprometido
 	- modificado / nuevo
 	- preparado (staged)
+	
+## Esto es nuevo
