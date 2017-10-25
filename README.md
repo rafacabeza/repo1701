@@ -15,3 +15,9 @@
 	- git add 
 	- git commit 
 	- git push
+	
+## Repasando ideas:
+- Un fichero puede estar
+	- comprometido
+	- modificado / nuevo
+	- preparado (staged)
